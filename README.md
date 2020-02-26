@@ -1,18 +1,13 @@
 # donate
 ❤️如果觉得项目对您有帮助，或者想请作者喝一杯咖啡的话，欢迎给我捐赠。
 
-<div style="text-align: center;">
-  <img src="https://github.com/yinjiazeng/donate/blob/master/images/coffee.jpg" />
-</div>
+<br>
+<img src="https://github.com/yinjiazeng/donate/blob/master/images/coffee.jpg" />
 
 ## 支付宝
 
-<div style="text-align: center;">
-  <img src="https://github.com/yinjiazeng/donate/blob/master/images/alipay.jpg" />
-</div>
+<img src="https://github.com/yinjiazeng/donate/blob/master/images/alipay.jpg" />
 
 ## 微信
 
-<div style="text-align: center;">
-  <img src="https://github.com/yinjiazeng/donate/blob/master/images/wechat.png" />
-</div>
+<img src="https://github.com/yinjiazeng/donate/blob/master/images/wechat.png" />
